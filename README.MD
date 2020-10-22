@@ -183,7 +183,7 @@ print "<!DOCTYPE html>
 ```
 
 
-> Komisjoni kommentaar: _"Toode on huvitav, mistõttu osa loodud funktsonaalsusest tahaks ka päriselus kasutada"_
+> Komisjoni kommentaar tööle: _"Toode on huvitav, mistõttu osa loodud funktsonaalsusest tahaks ka päriselus kasutada"_
 
 
 
