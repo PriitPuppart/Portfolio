@@ -32,6 +32,8 @@
 4. Protsesside ja funktionaalsuse täiendav kontroll
 5. Toote edasikujundamine Figmas (täiendavad vaated)
 6. Koodi kirjutamine…
+7. Toote testimine...
+
 
 ### Kolmas päev
 1. Koodi kirjutamine
